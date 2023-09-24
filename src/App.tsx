@@ -7,7 +7,8 @@ import {
 import { 
     // Contador,
     // ContadorConHook, 
-    Login,
+    // Login, 
+    Usuarios,
 } from "./components"
 
 function App() {
@@ -24,7 +25,8 @@ function App() {
             
             {/* <Contador /> */}
             {/* <ContadorConHook /> */}
-            <Login />
+            {/* <Login /> */}
+            <Usuarios />
         </>
     )
 }
